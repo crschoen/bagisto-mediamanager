@@ -1,3 +1,5 @@
+**Updated to use laravel-elfinder v0.5.1 [https://github.com/barryvdh/laravel-elfinder/tree/v0.5.1](https://github.com/barryvdh/laravel-elfinder/tree/v0.5.1)**
+
 # Bagisto Media Manager
 ![Packagist Downloads](https://img.shields.io/packagist/dt/ridhima/mediamanager) ![Packagist License](https://img.shields.io/packagist/l/ridhima/mediamanager)
 
